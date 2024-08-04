@@ -11,13 +11,8 @@
             "id": "f65a476f1fae5541",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fullstack Developer/Backend-Developer/Java/Exception Handling.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -70,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 334.5
   },
   "right": {
     "id": "d2eee67745e1fd51",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fullstack Developer/Backend-Developer/Java/Exception Handling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fullstack Developer/Backend-Developer/Java/Exception Handling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Fullstack Developer/Backend-Developer/Java/Exception Handling.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,11 +139,18 @@
   },
   "active": "f65a476f1fae5541",
   "lastOpenFiles": [
-    "Fullstack Developer/Backend-Developer/Java/Exception Handling.md",
-    "Fullstack Developer/Backend-Developer/Java/Concurrency Utilities.md",
-    "Fullstack Developer/Backend-Developer/Java/Collections Framework.md",
-    "Fullstack Developer/Backend-Developer/Java/Core Java Concepts.md",
     "Fullstack Developer/Backend-Developer/Java/Index.md",
+    "Fullstack Developer/Backend-Developer/Java/Concurrency Utilities.md",
+    "Fullstack Developer/Backend-Developer/Java/Core Java Concepts.md",
+    "Fullstack Developer/Backend-Developer/Java/Collections Framework.md",
+    "Fullstack Developer/Backend-Developer/Java/Java 8 Concepts.md",
+    "Fullstack Developer/Backend-Developer/Java/Java 11+ Concepts.md",
+    "Fullstack Developer/Backend-Developer/Java/Java Memory Management.md",
+    "Fullstack Developer/Backend-Developer/Java/JVM Internals.md",
+    "Fullstack Developer/Backend-Developer/Java/MultiThreading and Concurrency.md",
+    "Fullstack Developer/Backend-Developer/Java/Design Patterns.md",
+    "Fullstack Developer/Backend-Developer/Java/Generics.md",
+    "Fullstack Developer/Backend-Developer/Java/Exception Handling.md",
     "Untitled.canvas",
     "Fullstack Developer/Backend-Developer/Untitled.md",
     "Fullstack Developer/Backend-Developer/Quarkus",
