@@ -134,11 +134,16 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "f65a476f1fae5541",
+  "active": "c63962502ed58819",
   "lastOpenFiles": [
+    "Cloud Technologies/Azure",
+    "Cloud Technologies/GCP",
+    "Cloud Technologies/AWS",
+    "Cloud Technologies",
     "Fullstack Developer/Backend-Developer/Java/Index.md",
     "Fullstack Developer/Backend-Developer/Java/Concurrency Utilities.md",
     "Fullstack Developer/Backend-Developer/Java/Core Java Concepts.md",
