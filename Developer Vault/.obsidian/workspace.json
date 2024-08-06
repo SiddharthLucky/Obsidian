@@ -11,8 +11,13 @@
             "id": "f65a476f1fae5541",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Fullstack Developer/Backend-Developer/Java/Core Java Concepts.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -44,8 +49,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
+                "query": "tag:#Java-Concepts",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Fullstack Developer/Backend-Developer/Java/Core Java Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Fullstack Developer/Backend-Developer/Java/Core Java Concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,10 +125,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Fullstack Developer/Backend-Developer/Java/Core Java Concepts.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -138,16 +148,19 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "c63962502ed58819",
+  "active": "f65a476f1fae5541",
   "lastOpenFiles": [
+    "Fullstack Developer/Index.md",
+    "Fullstack Developer/Backend-Developer/Java/Collections Framework.md",
+    "Sample note.md",
+    "Cloud Developer/Sample note.md",
+    "Fullstack Developer/Backend-Developer/Java/Core Java Concepts.md",
+    "Cloud Developer",
     "Cloud Technologies/Azure",
     "Cloud Technologies/GCP",
     "Cloud Technologies/AWS",
     "Cloud Technologies",
-    "Fullstack Developer/Backend-Developer/Java/Index.md",
     "Fullstack Developer/Backend-Developer/Java/Concurrency Utilities.md",
-    "Fullstack Developer/Backend-Developer/Java/Core Java Concepts.md",
-    "Fullstack Developer/Backend-Developer/Java/Collections Framework.md",
     "Fullstack Developer/Backend-Developer/Java/Java 8 Concepts.md",
     "Fullstack Developer/Backend-Developer/Java/Java 11+ Concepts.md",
     "Fullstack Developer/Backend-Developer/Java/Java Memory Management.md",
