@@ -15,23 +15,30 @@
       }
     },
     {
-      "query": "",
+      "query": "tag:#AWS  ",
       "color": {
         "a": 1,
         "rgb": 14069084
       }
+    },
+    {
+      "query": "file:index",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
     }
   ],
   "collapse-display": false,
-  "showArrow": false,
-  "textFadeMultiplier": -3,
-  "nodeSizeMultiplier": 2.61519775390625,
-  "lineSizeMultiplier": 5,
+  "showArrow": true,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.17664359861592,
+  "lineSizeMultiplier": 2.51608996539792,
   "collapse-forces": false,
-  "centerStrength": 0.226359049479167,
-  "repelStrength": 10.2506510416667,
-  "linkStrength": 0.335856119791667,
-  "linkDistance": 199,
-  "scale": 0.38032134909748905,
+  "centerStrength": 0.583044982698962,
+  "repelStrength": 7.30103806228374,
+  "linkStrength": 0.468858131487889,
+  "linkDistance": 500,
+  "scale": 0.9233680491454401,
   "close": true
 }

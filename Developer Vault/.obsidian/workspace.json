@@ -11,9 +11,12 @@
             "id": "f65a476f1fae5541",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Cloud Developer/AWS/AWS Fundamentals.pdf"
+                "file": "Fullstack Developer/Backend-Developer/Index - Backend Developer.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -83,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud Developer/AWS/AWS Fundamentals.pdf",
+                "file": "Fullstack Developer/Backend-Developer/Index - Backend Developer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud Developer/AWS/AWS Fundamentals.pdf",
+                "file": "Fullstack Developer/Backend-Developer/Index - Backend Developer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud Developer/AWS/AWS Fundamentals.pdf"
+                "file": "Fullstack Developer/Backend-Developer/Index - Backend Developer.md"
               }
             }
           }
@@ -147,15 +150,22 @@
   },
   "active": "f65a476f1fae5541",
   "lastOpenFiles": [
-    "Cloud Developer/AWS/AWS Developer – Associate (DVA-C02) Certification Preparation.pdf",
-    "Cloud Developer/AWS/AWS Certified Data Engineer - Associate (DEA-C01) Certification Preparation.pdf",
-    "Fullstack Developer/Index.md",
+    "Fullstack Developer/Backend-Developer/Java/Index - Java Developer.md",
+    "Fullstack Developer/Backend-Developer/Index - Backend Developer.md",
+    "Index.md",
+    "Fullstack Developer/Backend-Developer/Java/MultiThreading and Concurrency.md",
+    "Fullstack Developer/Backend-Developer/Quarkus/Index - Backend Quarkus.md",
+    "Fullstack Developer/Backend-Developer/Spring/Index - Backend Spring.md",
+    "Fullstack Developer/Backend-Developer/Quarkus",
+    "Fullstack Developer/Backend-Developer/Spring",
+    "Cloud Developer/AWS/AWS Services.md",
     "Cloud Developer/AWS/AWS Fundamentals.pdf",
+    "Cloud Developer/AWS/AWS Certified Data Engineer - Associate (DEA-C01) Certification Preparation.pdf",
+    "Cloud Developer/AWS/AWS Developer – Associate (DVA-C02) Certification Preparation.pdf",
     "Cloud Developer/Azure",
     "Cloud Developer/GCP",
     "Cloud Developer/AWS",
     "Contents.md",
-    "Fullstack Developer/Backend-Developer/Java/MultiThreading and Concurrency.md",
     "Fullstack Developer/Backend-Developer/Java/JVM Internals.md",
     "Fullstack Developer/Backend-Developer/Java/Java Memory Management.md",
     "Fullstack Developer/Backend-Developer/Java/Java 11+ Concepts.md",
@@ -170,8 +180,6 @@
     "Cloud Developer/Sample note.md",
     "Cloud Developer",
     "Cloud Technologies/Azure",
-    "Cloud Technologies/GCP",
-    "Cloud Technologies/AWS",
     "Untitled.canvas",
     "Fullstack Developer/Backend-Developer/Untitled.md",
     "Welcome.md"
