@@ -1,7 +1,9 @@
-#Java-Concepts
-##### Contents
+#FullstackDeveloper #BackendDeveloper
 
-##### Backend - Java
+- #### Fullstack Development
+	- 
+##### Backend - Java  
+#BackendDeveloper #Java-Concepts 
 
 | [[Core Java Concepts]]     | [[Collections Framework]] | [[Concurrency Utilities]]          | [[Design Patterns]] |
 | -------------------------- | ------------------------- | ---------------------------------- | ------------------- |
@@ -10,7 +12,7 @@
 |                            |                           |                                    |                     |
 | [[Java Memory Management]] | [[JVM Internals]]         | [[MultiThreading and Concurrency]] |                     |
 
-##### Backend - Spring
+##### Backend - Spring #Spring-Concepts
 
-##### Backend - Quarkus
+##### Backend - Quarkus #Quarkus-Concepts
 

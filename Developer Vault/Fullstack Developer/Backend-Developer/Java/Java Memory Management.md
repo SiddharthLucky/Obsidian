@@ -1,4 +1,4 @@
-#Java-Concepts 
+#BackendDeveloper #Java-Concepts 
 
 Java memory management relies on an automated garbage collector that reclaims memory by removing objects no longer in use, enhancing efficiency and reducing memory leaks.
 
